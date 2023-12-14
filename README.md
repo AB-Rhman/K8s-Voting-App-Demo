@@ -1,1 +1,1 @@
-A Demo Project using  Kubernets 
+A Demo Project using  Kubernetes 
